@@ -1,0 +1,23 @@
+{
+  "name": "jqueryrotate",
+  "version": "1.0.0",
+  "description": "OpenSource Cross-browser jQuery plugin to rotate image by any-angle with an animation support.",
+  "main": "jQueryRotate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyru5/jqueryrotate.git"
+  },
+  "keywords": [
+    "jqueyr",
+    "rotate"
+  ],
+  "author": "Pawel \"wilq32\" Witkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyru5/jqueryrotate/issues"
+  },
+  "homepage": "https://github.com/Tyru5/jqueryrotate#readme"
+}
